@@ -1,0 +1,16 @@
+1	sfax	ab	10
+2	Mednine	ef	9
+3	Manouba	cd	3
+4	Manouba	aa	4
+5	sfax	ffh	5
+6	Gabes	ytu	7
+7	Tunis	kgg	5
+8	Mednine	jfk	3
+9	bizerte	jnf	10
+10	tunis	yoty	2
+11	tunis	hfhf	15
+12	bizerte	yyy	5
+13	nabeul	aze	7	3
+14	tataouine	eee	9
+15	kairouan	aaa	5
+16	monastir	ooo	10
